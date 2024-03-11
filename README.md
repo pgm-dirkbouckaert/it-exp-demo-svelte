@@ -1,8 +1,3 @@
-# it-exp-demo-svelte
-Uitproberen van Svelte  
-IT Exploration  
-Arteveldehogeschool 2023-24  
-
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
