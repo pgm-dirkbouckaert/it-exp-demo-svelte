@@ -1,3 +1,11 @@
+Dirk Bouckaert  
+Opdracht voor IT Exploration  
+Arteveldehogeschool 2023-24  
+
+Ik heb **Svelte** uitgeprobeerd.  
+Ik voegde twee pagina's toe: 'posts' en 'todos' (enkel 'Read')  
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
